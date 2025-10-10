@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeenthusiast21" alt="codeenthusiast21" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aviralAgarwal09" target="blank"><img src="https://img.shields.io/twitter/follow/aviral9910?logo=twitter&style=for-the-badge" alt="aviral9910" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aviralAgarwal09" target="blank"><img src="https://img.shields.io/twitter/follow/viralbeastx?logo=twitter&style=for-the-badge" alt="viralbeastx" /></a> </p>
 
 - 📫 How to reach me **aviralagarwal190006@gmail.com **
 
