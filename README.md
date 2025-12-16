@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AVIRAL AGARWAL</h1>
-<h3 align="center">A passionate android developer from India</h3>
+<h3 align="center">A passionate mobile application developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeenthusiast21&label=Profile%20views&color=0e75b6&style=flat" alt="codeenthusiast21" /> </p>
