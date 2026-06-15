@@ -1,13 +1,18 @@
-# hey, i'm aviral 👋
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=codeenthusiast21&label=profile+views&color=22C55E&style=flat" />
+</p>
 
+# hey, i'm aviral 👋
 i build mobile apps that actually reach people.
 cross-platform, production-grade, both stores.
 
 ---
 
+<div align="center">
+
 <table>
 <tr>
-<td valign="top" width="85%">
+<td valign="top" width="65%">
 
 ## what i'm working with
 
@@ -19,7 +24,6 @@ cross-platform, production-grade, both stores.
 **backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
 **databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -35,18 +39,19 @@ cross-platform, production-grade, both stores.
 
 **tools & environment**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
 </td>
-<td valign="middle" align="right" width="55%">
+<td valign="middle" align="right" width="35%">
 <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="340" />
 </td>
 </tr>
 </table>
+</td>
+</div>
 
 ---
 
@@ -65,5 +70,21 @@ cross-platform, production-grade, both stores.
 - 📱 shipped to **Google Play** and **App Store**
 - 🏆 **2× national hackathon winner**
 - 🔬 **patent recipient** — Project Suryamukhi
+- 🎓 mentoring **35+ juniors** in mobile development
 
 ---
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://streak-stats.demolab.com?user=codeEnthusiast21&theme=transparent&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=ffffff&dates=888888" />
+</td>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeEnthusiast21&layout=compact&theme=transparent&hide_border=true&title_color=22C55E&text_color=ffffff&langs_count=6" />
+</td>
+</tr>
+</table>
+
+</div>
