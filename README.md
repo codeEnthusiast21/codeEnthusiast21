@@ -67,13 +67,3 @@ cross-platform, production-grade, both stores.
 - 🔬 **patent recipient** — Project Suryamukhi
 
 ---
-
-## currently building
-
-→ Nestiq — real estate marketplace (Expo · Supabase · Clerk · Reanimated 4)
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aviralagarwal1109)
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.triplly)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/app/triplly)
