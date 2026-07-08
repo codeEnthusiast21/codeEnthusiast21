@@ -67,24 +67,6 @@ cross-platform, production-grade, both stores.
 
 ## a few things worth knowing
 
-- 📱 shipped to **Google Play** and **App Store**
+- 📱 shipped multiple apps to **Google Play** and **App Store**
 - 🏆 **2× national hackathon winner**
 - 🔬 **patent recipient** — Project Suryamukhi
-- 🎓 mentoring **35+ juniors** in mobile development
-
----
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<img src="https://streak-stats.demolab.com?user=codeEnthusiast21&theme=transparent&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=ffffff&dates=888888" />
-</td>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeEnthusiast21&layout=compact&theme=transparent&hide_border=true&title_color=22C55E&text_color=ffffff&langs_count=6" />
-</td>
-</tr>
-</table>
-
-</div>
